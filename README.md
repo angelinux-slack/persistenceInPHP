@@ -3,7 +3,7 @@ Persistence of objects for PHP
 
 With persistence of objects for PHP you can set values for class properties and retrieve all them in any PHP file.
 
-#Example for example class 'person'
+#Example for class 'person'
   
 Set String 'Angelos' for property 'name' in class 'person':    
     
