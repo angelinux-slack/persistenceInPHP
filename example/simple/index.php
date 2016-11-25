@@ -13,6 +13,7 @@
  */
 ?>
 <p>This is an example for object persistence in PHP</p>
+
 <?php
 require_once("../person.php"); //include class with persistence support
 
