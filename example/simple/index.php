@@ -19,7 +19,7 @@ require_once("../person.php"); //include class with persistence support
 //in this moment, person class properties have empty value
 
 //we can assign values for properties
-person::setValue('name', 'Angelos2');
+person::setValue('name', 'Angelos');
 person::setValue('email', 'horacio@consoluciones.com.mx');
 
 //we can assign arrays too
